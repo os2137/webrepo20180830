@@ -15,5 +15,6 @@ plot(iris)
 ```
 ```{r}
 scatter.smooth(iris)
+blogdown::hugo_version()
 ```
 
