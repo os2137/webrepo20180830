@@ -18,7 +18,8 @@
       
       <guid>/2018/08/31/my-first-blogdown-post/</guid>
       <description>This is my first post and i wanted to do some plotting from iris dataset
-plot(iris)scatter.smooth(iris)</description>
+https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-4/
+plot(iris)scatter.smooth(iris)blogdown::hugo_version()## [1] &amp;#39;0.47.1&amp;#39;</description>
     </item>
     
     <item>
