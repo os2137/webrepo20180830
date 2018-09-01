@@ -7,6 +7,6 @@ categories: []
 tags: []
 ---
 
-[R for Data Science Book by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/)
-[Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
-[Tidyverse webpage](https://www.tidyverse.org/)
+- [R for Data Science Book by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/)
+- [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+- [Tidyverse webpage](https://www.tidyverse.org/)
