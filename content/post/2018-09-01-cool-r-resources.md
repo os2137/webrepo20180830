@@ -1,5 +1,5 @@
 ---
-title: Cool R Resources
+title: Cool R Resources-Books and Webpages
 author: Onkar Singh
 date: '2018-09-01'
 slug: cool-r-resources
