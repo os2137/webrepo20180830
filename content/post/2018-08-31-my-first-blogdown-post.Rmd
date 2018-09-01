@@ -11,5 +11,5 @@ tags:
 This is my first post and i wanted to do some plotting from iris dataset
 
 
-https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-4/
+ [Tutorial](https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-4/)
 
