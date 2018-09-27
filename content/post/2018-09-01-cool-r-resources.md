@@ -11,3 +11,6 @@ tags: []
 - [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 - [Tidyverse webpage](https://www.tidyverse.org/)
 - [plotly for R by Carson Sievert](https://plotly-book.cpsievert.me/)
+- [Time series & financial analysis in the tidyverse deck by Davis Vaughan](https://speakerdeck.com/davisvaughan/time-series-and-financial-analysis-in-the-tidyverse?slide=58)
+
+- [swirl](https://swirlstats.com/)
