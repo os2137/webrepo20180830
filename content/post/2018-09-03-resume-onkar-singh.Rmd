@@ -116,8 +116,4 @@ Program Coordinator
 •	Conducted micro level planning exercises at the village level 
 •	Organized health camps with  health departments on malaria  prevention and treatment
 
-```{r}
-version
-RStudio.Version()
-```
 
