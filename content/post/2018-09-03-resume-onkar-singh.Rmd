@@ -1,7 +1,7 @@
 ---
 title: Resume_Onkar Singh
 author: Onkar Singh
-date: '2018-09-03'
+date: '2018-09-29'
 slug: resume-onkar-singh
 categories: []
 tags:
@@ -14,7 +14,8 @@ ONKAR SINGH
 Phone# 91-9980556792 Email: os2137@caa.columbia.edu
 E-201, Grand Edifice, Amani Doddakere, Hoskote, Bangalore –562114, India
 
-Master of International Affairs from Columbia University (NYC) with 15 years of in-depth hands-on experience in Corporate Social Responsibility, Employee Engagement, Inclusion and Diversity & Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.
+**Summary**
+Master of International Affairs from Columbia University (NYC) with 18 years of in-depth hands-on experience in Corporate Social Responsibility, Employee Engagement, Inclusion and Diversity & Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.
 
 **EDUCATION**
 May 2007 : COLUMBIA UNIVERSITY, SCHOOL OF INTERNATIONAL AND PUBLIC AFFAIRS (SIPA), NEW YORK, USA
@@ -114,4 +115,9 @@ Program Coordinator
 •	Supervised 100 micro credit groups and built linkages with commercial banks
 •	Conducted micro level planning exercises at the village level 
 •	Organized health camps with  health departments on malaria  prevention and treatment
+
+```{r}
+version
+RStudio.Version()
+```
 
