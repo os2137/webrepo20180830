@@ -42,33 +42,33 @@ Specialization in Project Management and Logical Framework Analysis
 **RELEVANT SKILLS**
 
  * Strategic CSR Management (Conceptualization-Design-Management)
- * Trainer GRI and CSR Reporting
- *	Stakeholder Analysis and Management	
- * Program Development and Management	
- *	Participatory Appraisal and Researc
- * Logical Framework Analysis
- *	Design Thinking	
- * Monitoring and Evaluation	
- *	MIS, Data Management, Visualization(Advanced Excel-Power BI-Dashboard)	
- *	Data Analytics using R	
+ * Trainer GRI and CSR Reporting
+ * Stakeholder Analyis and Management
+ * Program Development and Management
+ * Participatory Appraisal and Reseach
+ * Logical Framework Analysis
+ * Design Thinking
+ * Monitoring and Evaluation
+ * MIS, Data Management, Visualization(Advanced Excel-Power BI-Dashboard)
+ * Data Analytics using R
 
-** WORK EXPERIENCE **     
-Jul 10 - Present
-ACCENTURE SERVICES PVT. LTD
-Program Management and M&E Lead, Global Corporate Citizenship Team
-•	Manage the Global Giving portfolio of USD 50M+ in support of Accenture’s Succeed to Succeed Corporate Citizenship program aimed at providing skills training to more than 3 million beneficiaries worldwide
-•	Lead the design of Salesforce based Program Management tool -IMPACT, including partner onboarding, reporting and dashboarding for Global Giving program
-•	 Track the status of all CC relationships in the global portfolio, and to take timely action by alerting on key milestones, coordinating interventions and maintaining plans
-•	Manage the quality of services provided to Global Giving grantees and Global CC program relationships-including responsibility for timely and effective communications in support of key milestones and processes
-•	 Analyze, evaluate and aid effective monitoring and evaluation of Global CC projects utilizing knowledge management tools  (such as SharePoint, Knowledge Exchange, Enablon and Salesforce Foundation Connect)
-•	 Manage Global CC Data and build MIS in support of effective reporting against CC milestones and objectives
-•	 Undertake project-based initiatives relating to Global CC portfolio such as organization of events, production of tool kits to support Global Giving operations, development of communication to support the marketing & communication of Global CC programs
-•	 Coordinate and support Global Giving and other key CC relationship processes-including due diligence, employee engagement initiatives, stakeholder management and reporting
-•	 Work with various service providers to ensure timely production of management information and reports in support of  the CCC and Global CC program activities
+**WORK EXPERIENCE**     
+**Jul 10 - Present**
+**ACCENTURE SERVICES PVT. LTD**
+**Program Management and M&E Lead, Global Corporate Citizenship Team**
+ - Manage the Global Giving portfolio of USD 50M+ in support of Accenture’s Succeed to Succeed Corporate Citizenship program aimed at providing skills training to more than 3 million beneficiaries worldwide
+ - Lead the design of Salesforce based Program Management tool IMPACT, including partner onboarding, reporting and dashboarding for Global Giving program
+  - Track the status of all CC relationships in the global portfolio, and to take timely action by alerting on key milestones, coordinating interventions and maintaining plans
+ - Manage the quality of services provided to Global Giving grantees and Global CC program relationships-including responsibility for timely and effective communications in support of key milestones and processes
+ - Analyze, evaluate and aid effective monitoring and evaluation of Global CC projects utilizing knowledge management tools  (such as SharePoint, Knowledge Exchange, Enablon and Salesforce Foundation Connect)
+ - Manage Global CC Data and build MIS in support of effective reporting against CC milestones and objectives
+ - Undertake project-based initiatives relating to Global CC portfolio such as organization of events, production of tool kits to support Global Giving operations, development of communication to support the marketing & communication of Global CC programs
+ - Coordinate and support Global Giving and other key CC relationship processes-including due diligence, employee engagement initiatives, stakeholder management and reporting
+ - Work with various service providers to ensure timely production of management information and reports in support of  the CCC and Global CC program activities
 
-Feb 08 - Jun 10
-	PARTNERS IN CHANGE, BANGALORE,  INDIA
-Program Manager, South India
+**Feb 08 - Jun 10**
+**PARTNERS IN CHANGE, BANGALORE,  INDIA**
+**Program Manager, South India**
 •	 Designed consumer survey and coordinated the research  on sustainable tea and coffee consumption in India
 •	 Managed corporate-community engagement project involving supply chain management issues in the tea, coffee and garment sector
 •	 Coordinated the project on tea small growers in partnership with HUL and small growers association providing preferential market access to 1000 farmers for improving socio-economic and environmental standards at the lowest end of the tea value chain
