@@ -13,7 +13,7 @@ Phone# 91-9980556792 Email: os2137@caa.columbia.edu
 E-201, Grand Edifice, Amani Doddakere, Hoskote, Bangalore –562114, India
 
 
-**Summary**
+**SUMMARY**
 
 Master of International Affairs from Columbia University (NYC) with 18 years of in-depth hands-on experience in Corporate Social Responsibility, Employee Engagement, Inclusion and Diversity & Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.
 
@@ -167,7 +167,9 @@ Specialization in Project Management and Logical Framework Analysis
  
  * Planned, managed and monitored development projects aimed at community empowerment, livelihood promotion and local level governance reform
  
- * Prepared progress reports and managed correspondence with  donors  * Documented processes and outcomes of development interventions including progress reports and case studies 
+ * Prepared progress reports and managed correspondence with  donors
+ 
+ * Documented processes and outcomes of development interventions including progress reports and case studies 
  
  
  
