@@ -52,9 +52,13 @@ Specialization in Project Management and Logical Framework Analysis
  * Data Analytics using R
 
 **WORK EXPERIENCE**     
+
 **Jul 10 - Present**
+
 **ACCENTURE SERVICES PVT. LTD**
+
 **Program Management and M&E Lead, Global Corporate Citizenship Team**
+
  * Manage the Global Giving portfolio of USD 50M+ in support of Accenture’s Succeed to Succeed Corporate Citizenship program aimed at providing skills training to more than 3 million beneficiaries worldwide
  * Lead the design of Salesforce based Program Management tool IMPACT, including partner onboarding, reporting and dashboarding for Global Giving program
  * Track the status of all CC relationships in the global portfolio, and to take timely action by alerting on key milestones, coordinating interventions and maintaining plans
@@ -66,8 +70,11 @@ Specialization in Project Management and Logical Framework Analysis
  * Work with various service providers to ensure timely production of management information and reports in support of  the CCC and Global CC program activities
 
 **Feb 08 - Jun 10**
+
 **PARTNERS IN CHANGE, BANGALORE,  INDIA**
+
 **Program Manager, South India**
+
  * Designed consumer survey and coordinated the research  on sustainable tea and coffee consumption in India
  * Managed corporate-community engagement project involving supply chain management issues in the tea, coffee and garment sector
  * Coordinated the project on tea small growers in partnership with HUL and small growers association providing preferential market access to 1000 farmers for improving socio-economic and environmental standards at the lowest end of the tea value chain
@@ -78,7 +85,9 @@ Specialization in Project Management and Logical Framework Analysis
  * Represented Partners in Change in forums such as Confederation of Indian Industry and other CSR related national and international conferences   
 
 **June 06 - Oct 07**
+
 **VARIOUS SHORT TERM ASSIGNMENTS**
+
  * Prepared case studies evaluating the impact of Migrant Savings and Alternative Investment (MSAI) model on the community and assessed potential of scaling up MSAI model in the Philippines and India [Research Fellow, TOKYO FOUNDATION, TOKYO, JAPAN ( Mar 07 - Oct 07)]
  * Designed tools for school-based model of learning and delivery of essential services for children in Lesotho  and Rwanda under the Africa Learning Plus Initiative of UNICEF as part of Economic and Political Development Workshop team at SIPA[Consultant, UNITED NATIONS CHILDREN FUND (UNICEF), NEW YORK, USA (Nov 06 - April 07)]
  * Performed project analysis that included narrative, logical framework and budget analysis on issues concerning democratic dialogue, civic engagement and participation, and access to information in Asia, Africa, the Middle East, Latin America and Eastern Europe [Intern, UNITED NATIONS DEMOCRACY FUND (UNDEF), NEW YORK, USA (Oct  06 - Dec 06)]
@@ -87,8 +96,11 @@ Specialization in Project Management and Logical Framework Analysis
  	
 
 **July 04 - Aug 05**	
+
 **BADLAO FOUNDATION- REACH INDIA PROJECT, DUMKA, INDIA**
+
    **Consultant**
+
  * Formulated, mobilized and managed the project ‘Mainstreaming At-Risk Children of Santhal Pargana’ aimed at       educating children from tribal communities in Jharkhand, India 
  * Led a team of 150 personnel tasked with educating 3000 at-risk children in six blocks of four districts in Jharkhand, India 
  * Recruited and built capacity of the project team
@@ -97,8 +109,11 @@ Specialization in Project Management and Logical Framework Analysis
  
 
 **Feb 03 - June 04**
+
 **PARTICIPATORY RESEARCH IN ASIA (PRIA), NEW DELHI, INDIA**
+
 **Program Officer**
+
  * Organized, mobilized and oriented village assemblies  in Jamtara district of Jharkhand
  * Liaised with block and district officials, media, academia and citizen leaders on the issue of citizens’ participation and governance
  * Monitored social development indicators on education of child laborers with the involvement of parents and teachers 
@@ -106,24 +121,32 @@ Specialization in Project Management and Logical Framework Analysis
 
 
 **Jan 02 - Dec 02**
+
 **AGRARIAN ASSISTANCE ASSOCIATION-FIND YOUR FEET(FYF) PROJECT, DUMKA, INDIA**
+
 **Marketing Coordinator** 
+
  * Planned, mobilized and managed the project ‘Sustaining Tribal Livelihoods in Dumka and Pakur district in Jharkhand’ aimed at enhancing livelihood opportunities through micro-enterprises and micro-credit
  * Identified potential markets for non- timber forest produce, established market linkages, trained community members, farmer producers  and their representatives
  * Organized educational exposure visits, provided overall guidance and monitoring support to the project team
 
 
 **June 01- Dec 01**
+
 **AGRARIAN ASSISTANCE ASSOCIATION-ACTION AID PROJECT, DUMKA, INDIA**
+
 **Senior Advocacy and Documentation Officer**
  
- * Planned, managed and monitored development projects aimed at community empowerment, livelihood promotion and local level governance reform                                       * Prepared progress reports and managed correspondence with  donors 
- * Documented processes and outcomes of development interventions including progress reports and case studies   
+ * Planned, managed and monitored development projects aimed at community empowerment, livelihood promotion and local level governance reform                                       
+ * Prepared progress reports and managed correspondence with  donors  * Documented processes and outcomes of development interventions including progress reports and case studies   
 
 
 **May 00 - May 01**
+
 ** AGRARIAN ASSISTANCE ASSOCIATION-NOVIB-OXFAM NETHERLANDS PROJECT, DUMKA, INDIA**
+
 **Program Coordinator**
+
  * Managed 'Eco Friendly Socio-Economic Development Project' covering 30 villages of Dumka district in Jharkhand
  * Supervised 100 micro credit groups and built linkages with commercial banks
  * Conducted micro level planning exercises at the village level 
