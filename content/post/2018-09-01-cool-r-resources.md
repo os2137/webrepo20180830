@@ -23,3 +23,4 @@ tags: []
 - [The Elements of Statiscal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Time series & financial analysis in the tidyverse deck by Davis Vaughan](https://speakerdeck.com/davisvaughan/time-series-and-financial-analysis-in-the-tidyverse?slide=58)
 - [swirl](https://swirlstats.com/)
+- [R resources (free courses, books, tutorials, & cheat sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
