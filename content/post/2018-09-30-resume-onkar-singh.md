@@ -8,40 +8,51 @@ tags: []
 ---
 
 ONKAR SINGH
+
 Phone# 91-9980556792 Email: os2137@caa.columbia.edu
+
 E-201, Grand Edifice, Amani Doddakere, Hoskote, Bangalore –562114, India
 
 **Summary**
+
 Master of International Affairs from Columbia University (NYC) with 18 years of in-depth hands-on experience in Corporate Social Responsibility, Employee Engagement, Inclusion and Diversity & Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.
 
 **EDUCATION**
-May 2007 : COLUMBIA UNIVERSITY, SCHOOL OF INTERNATIONAL AND PUBLIC AFFAIRS (SIPA), NEW YORK, USA
+
+** May 2007 : COLUMBIA UNIVERSITY, SCHOOL OF INTERNATIONAL AND PUBLIC AFFAIRS (SIPA), NEW YORK, USA**
+
 •	Master of International Affairs in Economic and Political Development
 
-May 2000: XAVIER INSTITUTE OF SOCIAL SERVICE, RANCHI, INDIA
+**May 2000: XAVIER INSTITUTE OF SOCIAL SERVICE, RANCHI, INDIA**
+
 •	 Post Graduate Diploma in Rural Development  (PGDRD) 
 Specialization in Project Management and Logical Framework Analysis
 
-Jan 19908: ST. COLUMBA’S COLLEGE, HAZARIBAGH, INDIA 
+**Jan 19908: ST. COLUMBA’S COLLEGE, HAZARIBAGH, INDIA **
+
 •	Bachelor of Science in Mathematics
 	
 **HONORS AND AWARDS**
-- ACCENTURE INDIA CORPORATE FUNCTION TOP TALENT AWARD, 2018
-- FORD FOUNDATION INTERNATIONAL FELLOWSHIPS, 2005-2007
-- SASAKAWA YOUNG LEADERSHIP AWARD, COLUMBIA UNIVERSITY, 2006
-- JOINT INTITIATIVE PROJECT AWARD, TOKYO FOUNDATION, 2007  
+
+ - ACCENTURE INDIA CORPORATE FUNCTION TOP TALENT AWARD, 2018
+ - FORD FOUNDATION INTERNATIONAL FELLOWSHIPS, 2005-2007
+ - SASAKAWA YOUNG LEADERSHIP AWARD, COLUMBIA UNIVERSITY, 2006
+ - JOINT INTITIATIVE PROJECT AWARD, TOKYO FOUNDATION, 2007  
 
 **RELEVANT SKILLS**
-Strategic CSR Management
-(Conceptualization-Design-Management)		MIS, Data Management, Visualization
-(Advanced Excel-Power BI-Dashboard)	
-Trainer GRI and CSR Reporting 		Stakeholder Analysis and Management	
-Program Development and Management		Participatory Appraisal and Research	
-Logical Framework Analysis
-		Design Thinking	
-Monitoring and Evaluation		Data Analytics using R	
 
-WORK EXPERIENCE     
+ * Strategic CSR Management (Conceptualization-Design-Management)
+ * Trainer GRI and CSR Reporting
+ *	Stakeholder Analysis and Management	
+ * Program Development and Management	
+ *	Participatory Appraisal and Researc
+ * Logical Framework Analysis
+ *	Design Thinking	
+ * Monitoring and Evaluation	
+ *	MIS, Data Management, Visualization(Advanced Excel-Power BI-Dashboard)	
+ *	Data Analytics using R	
+
+** WORK EXPERIENCE **     
 Jul 10 - Present
 ACCENTURE SERVICES PVT. LTD
 Program Management and M&E Lead, Global Corporate Citizenship Team
