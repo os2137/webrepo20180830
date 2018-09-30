@@ -88,10 +88,10 @@ Specialization in Project Management and Logical Framework Analysis
 
 **VARIOUS SHORT TERM ASSIGNMENTS**
 
- * Prepared case studies evaluating the impact of Migrant Savings and Alternative Investment (MSAI) model on the community and assessed potential of scaling up MSAI model in the Philippines and India [Research Fellow, TOKYO FOUNDATION, TOKYO, JAPAN ( Mar 07 - Oct 07)]
- * Designed tools for school-based model of learning and delivery of essential services for children in Lesotho  and Rwanda under the Africa Learning Plus Initiative of UNICEF as part of Economic and Political Development Workshop team at SIPA[Consultant, UNITED NATIONS CHILDREN FUND (UNICEF), NEW YORK, USA (Nov 06 - April 07)]
- * Performed project analysis that included narrative, logical framework and budget analysis on issues concerning democratic dialogue, civic engagement and participation, and access to information in Asia, Africa, the Middle East, Latin America and Eastern Europe [Intern, UNITED NATIONS DEMOCRACY FUND (UNDEF), NEW YORK, USA (Oct  06 - Dec 06)]
- * Edited and compiled Participatory Action Research Manual  for Community Based Natural Resource Management [Intern, INTERNATIONAL INSTITUTE OF RURAL RECONSTRUCTION (IIRR), MANILA, PHILIPPINES (June 06  - July 06)]
+ * Prepared case studies evaluating the impact of Migrant Savings and Alternative Investment (MSAI) model on the community and assessed potential of scaling up MSAI model in the Philippines and India **[Research Fellow, TOKYO FOUNDATION, TOKYO, JAPAN ( Mar 07 - Oct 07)]**
+ * Designed tools for school-based model of learning and delivery of essential services for children in Lesotho  and Rwanda under the Africa Learning Plus Initiative of UNICEF as part of Economic and Political Development Workshop team at SIPA **[Consultant, UNITED NATIONS CHILDREN FUND (UNICEF), NEW YORK, USA (Nov 06 - April 07)]**
+ * Performed project analysis that included narrative, logical framework and budget analysis on issues concerning democratic dialogue, civic engagement and participation, and access to information in Asia, Africa, the Middle East, Latin America and Eastern Europe **[Intern, UNITED NATIONS DEMOCRACY FUND (UNDEF), NEW YORK, USA (Oct  06 - Dec 06)]**
+ * Edited and compiled Participatory Action Research Manual  for Community Based Natural Resource Management **[Intern, INTERNATIONAL INSTITUTE OF RURAL RECONSTRUCTION (IIRR), MANILA, PHILIPPINES (June 06  - July 06)]**
 
  	
 
@@ -143,7 +143,7 @@ Specialization in Project Management and Logical Framework Analysis
 
 **May 00 - May 01**
 
-** AGRARIAN ASSISTANCE ASSOCIATION-NOVIB-OXFAM NETHERLANDS PROJECT, DUMKA, INDIA**
+**AGRARIAN ASSISTANCE ASSOCIATION-NOVIB-OXFAM NETHERLANDS PROJECT,DUMKA, INDIA**
 
 **Program Coordinator**
 
