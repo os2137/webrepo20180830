@@ -8,8 +8,8 @@ categories:
 tags:
   - demo
 ---
-This is my first post and i wanted to do some plotting from iris dataset
+This is my first post and I wanted post this super helpful link which got me started on my website. 
 
 
- [Tutorial](https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-4/)
+ [Blogdown Tutorial](https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-4/)
 
