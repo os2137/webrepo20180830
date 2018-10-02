@@ -7,50 +7,66 @@ categories: []
 tags: []
 ---
 
-**ONKAR SINGH**
+**ONKAR SINGH**\
 
 Phone# 91-9980556792 Email: os2137@caa.columbia.edu
-E-201, Grand Edifice, Amani Doddakere, Hoskote, Bangalore –562114, India
+E-201, Grand Edifice, Amani Doddakere, Hoskote, Bangalore –562114, India\
+\
+\
 
 
 **SUMMARY**
 
-Master of International Affairs from Columbia University (NYC) with 18 years of in-depth hands-on experience in Corporate Social Responsibility, Employee Engagement, Inclusion and Diversity & Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.
+**Master of International Affairs from Columbia University (NYC) with 18 years of in-depth hands-on experience in Corporate Social Responsibility, Employee Engagement, Inclusion
+and Diversity & Community Development. Proven ability to manage large scale development projects with strong communication, stakeholder management and analytical skills. Highly effective at creating multi-stakeholder social initiatives with sustainable community impact.**\
+\
+\
 
 **EDUCATION**
 
 **May 2007 : COLUMBIA UNIVERSITY, SCHOOL OF INTERNATIONAL AND PUBLIC AFFAIRS (SIPA), NEW YORK, USA**
 
- * Master of International Affairs in Economic and Political Development
+ * Master of International Affairs in Economic and Political Development\
+ 
 
 **May 2000: XAVIER INSTITUTE OF SOCIAL SERVICE, RANCHI, INDIA**
 
  * Post Graduate Diploma in Rural Development  (PGDRD) 
-Specialization in Project Management and Logical Framework Analysis
+Specialization in Project Management and Logical Framework Analysis\
 
-**Jan 19908: ST. COLUMBA’S COLLEGE, HAZARIBAGH, INDIA**
 
- * Bachelor of Science in Mathematics
-	
+**Jan 1998: ST. COLUMBA’S COLLEGE, HAZARIBAGH, INDIA**
+
+ * Bachelor of Science in Mathematics\
+ \
+ \
+ 
 **HONORS AND AWARDS**
 
- - ACCENTURE INDIA CORPORATE FUNCTION TOP TALENT AWARD, 2018
- - FORD FOUNDATION INTERNATIONAL FELLOWSHIPS, 2005-2007
- - SASAKAWA YOUNG LEADERSHIP AWARD, COLUMBIA UNIVERSITY, 2006
- - JOINT INTITIATIVE PROJECT AWARD, TOKYO FOUNDATION, 2007  
+ - **Accenture India Corporate Function Top Talent Award, 2018**
+ - **Ford Foundation International Fellowships, 2005-2007**
+ - **Sasakawa Young Leadership Award, Columbia University, 2006**
+ - **Joint Initiative Project Award, Tokyo Foundation, 2007**\
+ \
+ \
+ 
 
 **RELEVANT SKILLS**
 
- * Strategic CSR Management (Conceptualization-Design-Management)
- * Trainer GRI and CSR Reporting
- * Stakeholder Analyis and Management
- * Program Development and Management
- * Participatory Appraisal and Reseach
- * Logical Framework Analysis
- * Design Thinking
- * Monitoring and Evaluation
- * MIS, Data Management, Visualization(Advanced Excel-Power BI-Dashboard)
- * Data Analytics using R
+ * **Strategic CSR Management (Conceptualization-Design-Management)**
+ * **Trainer GRI and CSR Reporting**
+ * **Stakeholder Analyis and Management**
+ * **Program Development and Management**
+ * **Participatory Appraisal and Reseach**
+ * **Logical Framework Analysis**
+ * **Design Thinking**
+ * **Monitoring and Evaluation**
+ * **MIS, Data Management, Visualization(Advanced Excel-Power BI-Dashboard)**
+ * **Data Analytics using R**\
+ \
+ \
+ \
+ 
 
 **WORK EXPERIENCE**   
 
@@ -76,7 +92,10 @@ Specialization in Project Management and Logical Framework Analysis
  
  * Coordinate and support Global Giving and other key CC relationship processes-including due diligence, employee engagement initiatives, stakeholder management and reporting
  
- * Work with various service providers to ensure timely production of management information and reports in support of  the CCC and Global CC program activities
+ * Work with various service providers to ensure timely production of management information and reports in support of  the CCC and Global CC program activities\
+ \
+ \
+ 
 
 **Feb 08 - Jun 10**
 
@@ -98,7 +117,10 @@ Specialization in Project Management and Logical Framework Analysis
  
  * Facilitated NGO- Business partnership with Madura Garments and Skills for Progress for training and employment of youth in the textile sector
  
- * Represented Partners in Change in forums such as Confederation of Indian Industry and other CSR related national and international conferences   
+ * Represented Partners in Change in forums such as Confederation of Indian Industry and other CSR related national and international conferences\
+ \
+ \
+ 
 
 **June 06 - Oct 07**
 
@@ -110,8 +132,9 @@ Specialization in Project Management and Logical Framework Analysis
  
  * Performed project analysis that included narrative, logical framework and budget analysis on issues concerning democratic dialogue, civic engagement and participation, and access to information in Asia, Africa, the Middle East, Latin America and Eastern Europe **[Intern, UNITED NATIONS DEMOCRACY FUND (UNDEF), NEW YORK, USA (Oct  06 - Dec 06)]**
  
- * Edited and compiled Participatory Action Research Manual  for Community Based Natural Resource Management **[Intern, INTERNATIONAL INSTITUTE OF RURAL RECONSTRUCTION (IIRR), MANILA, PHILIPPINES (June 06  - July 06)]**
-
+ * Edited and compiled Participatory Action Research Manual  for Community Based Natural Resource Management **[Intern, INTERNATIONAL INSTITUTE OF RURAL RECONSTRUCTION (IIRR), MANILA, PHILIPPINES (June 06  - July 06)]**\
+ \
+ \
 
 
 **July 04 - Aug 05**	
@@ -128,9 +151,11 @@ Specialization in Project Management and Logical Framework Analysis
  
  * Documented processes and outcomes of development interventions
  
- * Provided inputs on project proposal, monitoring and action research
+ * Provided inputs on project proposal, monitoring and action research\
+ \
+ \
  
-
+ 
 **Feb 03 - June 04**
 
 **PARTICIPATORY RESEARCH IN ASIA (PRIA), NEW DELHI, INDIA**
@@ -143,8 +168,10 @@ Specialization in Project Management and Logical Framework Analysis
  
  * Monitored social development indicators on education of child laborers with the involvement of parents and teachers
  
- * Provided process documentation training to civil society organizations of Santhal  Pargana, Jharkhand
-
+ * Provided process documentation training to civil society organizations of Santhal  Pargana, Jharkhand\
+ \
+ \
+ 
 
 **Jan 02 - Dec 02**
 
@@ -156,8 +183,10 @@ Specialization in Project Management and Logical Framework Analysis
  
  * Identified potential markets for non- timber forest produce, established market linkages, trained community members, farmer producers  and their representatives
  
- * Organized educational exposure visits, provided overall guidance and monitoring support to the project team
-
+ * Organized educational exposure visits, provided overall guidance and monitoring support to the project team\
+ \
+ \
+ 
 
 **June 01- Dec 01**
 
@@ -169,9 +198,9 @@ Specialization in Project Management and Logical Framework Analysis
  
  * Prepared progress reports and managed correspondence with  donors
  
- * Documented processes and outcomes of development interventions including progress reports and case studies 
- 
- 
+ * Documented processes and outcomes of development interventions including progress reports and case studies\
+ \
+ \
  
 **May 00 - May 01**
 
