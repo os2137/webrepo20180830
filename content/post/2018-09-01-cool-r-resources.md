@@ -9,6 +9,7 @@ tags: []
 
 - [R for Data Science Book by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/)
 - [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
