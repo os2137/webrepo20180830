@@ -24,6 +24,8 @@ tags: []
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 - [ R-Studio Education Repo on Github](https://github.com/rstudio-education)
 - [The Elements of Statiscal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [Storybench](http://www.storybench.org/)
+- [Visualize This](http://book.flowingdata.com/)
 - [Time series & financial analysis in the tidyverse deck by Davis Vaughan](https://speakerdeck.com/davisvaughan/time-series-and-financial-analysis-in-the-tidyverse?slide=58)
 - [swirl](https://swirlstats.com/)
 - [R resources (free courses, books, tutorials, & cheat sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
