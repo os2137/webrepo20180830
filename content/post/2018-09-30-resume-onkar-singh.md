@@ -1,7 +1,7 @@
 ---
 title: Resume_ Onkar Singh
 author: Onkar Singh
-date: '2018-09-30'
+date: '2018-11-25'
 slug: resume-onkar-singh
 categories: []
 tags: []
@@ -10,7 +10,11 @@ tags: []
 **ONKAR SINGH**\
 
 Phone# 91-9980556792 Email: os2137@caa.columbia.edu
-E-201, Grand Edifice, Amani Doddakere, Hoskote, Bangalore –562114, India\
+E-201, Grand Edifice, Amani Doddakere, Hoskote, Bangalore –562114, India
+
+|**[LinkedIn](https://www.linkedin.com/in/onkarsinghcsranddevelopment/)**| |**[Twitter](https://twitter.com/onkartweets)**|
+\
+
 \
 \
 
@@ -61,8 +65,10 @@ Specialization in Project Management and Logical Framework Analysis\
  * **Logical Framework Analysis**
  * **Design Thinking**
  * **Monitoring and Evaluation**
- * **MIS, Data Management, Visualization(Advanced Excel-Power BI-Dashboard)**
- * **Data Analytics using R**\
+ * **MIS, Data Management, Visualization**
+ * **Data Analytics using Excel & R**
+ * **BI & Visualization in Tableau & Power BI**\
+ 
  \
  \
  \

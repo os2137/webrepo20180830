@@ -26,6 +26,8 @@ tags: []
 - [The Elements of Statiscal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Storybench](http://www.storybench.org/)
 - [Visualize This](http://book.flowingdata.com/)
+- [R4DS Online Community](https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82)
+- [R can API and So Can You!](https://medium.com/@heathernolis/r-can-api-c184951a24a3)
 - [Time series & financial analysis in the tidyverse deck by Davis Vaughan](https://speakerdeck.com/davisvaughan/time-series-and-financial-analysis-in-the-tidyverse?slide=58)
 - [swirl](https://swirlstats.com/)
 - [R resources (free courses, books, tutorials, & cheat sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
