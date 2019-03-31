@@ -10,3 +10,6 @@ Strategic Program Development and Management, Stakeholder Management, Compliance
 
 Area of Expertise
 Corporate Social Responsibility and Community Development, Employee Engagement, Supply Chain Sustainability, GRI and CSR Reporting, Education and Skill Development.
+
+
+- [My Resume](http://onkarsingh.rbind.io/2018/11/25/resume-onkar-singh/)
