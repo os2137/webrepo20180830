@@ -16,18 +16,23 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/os2137"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/onkartweets"
+    name = "Resume"
+    url = "/resume/"
+    
+
 [[menu.main]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/onkarsinghcsranddevelopment/"
 
 [[menu.main]]
-    name = "Resume"
-    url = "/resume/"
+    name = "Twitter"
+    url = "https://twitter.com/onkartweets"
+    
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/os2137"
+    
+
 
 [params]
     description = "A website built through Hugo and blogdown."
