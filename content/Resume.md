@@ -1,10 +1,8 @@
 ---
-title: Resume_ Onkar Singh
-author: Onkar Singh
-date: '2018-11-25'
-slug: resume-onkar-singh
-categories: []
-tags: []
+title: "resume"
+author: "Onkar Singh"
+date: "4/5/2019"
+output: html_document
 ---
 
 **ONKAR SINGH**\
