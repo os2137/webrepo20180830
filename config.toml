@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Resume"
-    url = "/CV/"
+    url = "http://onkarsingh.rbind.io/cv/"
 
 [params]
     description = "A website built through Hugo and blogdown."
