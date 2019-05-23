@@ -10,6 +10,7 @@ tags: []
 
 - [R for Data Science Book by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/)
 - [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+- [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [The tidyverse style guide](https://style.tidyverse.org/)
 - [What They Forgot to Teach You About R by Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
@@ -35,5 +36,8 @@ tags: []
 - [swirl](https://swirlstats.com/)
 - [R resources (free courses, books, tutorials, & cheat sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
 - [tidyr Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
+- [Code Snippets](https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets)
+- [ here: A simple interface to rprojroot](https://here.r-lib.org/)
+
 
 
