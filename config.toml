@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "About Me"
     url = "/about/"
 
 [[menu.main]]
@@ -28,7 +28,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Twitter"
     url = "https://twitter.com/onkartweets"
     
-
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/os2137"
+    
 
 
 [params]
