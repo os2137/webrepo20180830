@@ -1,0 +1,49 @@
+---
+title: Indian Election 2019 - Part 1
+author: Onkar Singh
+date: '2019-06-19'
+slug: indian-election-2019-part-1
+categories:
+  - r
+  - rstats
+tags:
+  - r
+  - ggplot2
+  - rstats
+---
+
+```{r setup, include=FALSE, cache = FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, cache = TRUE)
+library(tidyverse)
+library(ggplot2)
+theme_set(theme_light())
+```
+
+
+
+```{r echo = FALSE}
+exit_polls_2019 <- read_csv("exit_polls_2019.csv")
+```
+
+
+The figure below shows the exit polls results conducted by majore Indian television channel and associated poll agencies
+
+```{r echo = FALSE}
+exit_polls_2019 %>%
+mutate(Coalition = fct_reorder(Coalition, Seats)) %>%
+ggplot(aes(Coalition, Seats)) +
+geom_col(aes(fill = Coalition), show.legend = FALSE) +
+facet_wrap( ~ Poll) +
+coord_flip() +
+geom_text(aes(label = Seats),
+size = 3,
+vjust = 1,
+hjust = 1) +
+labs(
+x = "Major Coalitions ",
+y = "Seat Projections",
+subtitle = "Seat projections for major political coalitions- the majority mark is 272.",
+title = "Exit Polls Projections for 2019 General Elections in India"
+)
+
+```
