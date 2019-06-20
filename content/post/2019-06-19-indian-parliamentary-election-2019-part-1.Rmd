@@ -1,5 +1,5 @@
 ---
-title: Indian Parliamentary Election 2019 - Part 1
+title: Indian Parliamentary Election 2019 - Part 1-Exit Polls
 author: Onkar Singh
 date: '2019-06-19'
 slug: indian-parliamentary-election-2019-part-1
@@ -23,7 +23,7 @@ exit_polls_2019 <- read_csv("exit_polls_2019.csv")
 
 
 
-The figure below shows the exit polls results conducted by majore Indian television channel and associated poll agencies
+The figure below shows the exit polls results conducted by major Indian television channel and associated poll agencies
 ```{r echo = FALSE}
 exit_polls_2019 %>%
 mutate(Coalition = fct_reorder(Coalition, Seats)) %>%
