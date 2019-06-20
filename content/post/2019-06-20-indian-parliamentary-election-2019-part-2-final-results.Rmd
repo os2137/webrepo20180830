@@ -1,0 +1,51 @@
+---
+title: Indian Parliamentary Election 2019 - Part 2- Final Results
+author: Onkar Singh
+date: '2019-06-20'
+slug: indian-parliamentary-election-2019-part-2-final-results
+categories:
+  - r
+tags:
+  - r
+  - ggplot2
+  - rstats
+---
+
+
+
+```{r setup, include=FALSE, cache = FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, cache = TRUE)
+library(tidyverse)
+library(ggplot2)
+library(readxl)
+theme_set(theme_light())
+final_results_2019 <- read_excel("final_results_2019.xlsx", sheet = 2)
+```
+
+
+The figure below shows the actual results when the results were counted on 23rd May 2019. The results were overwhelminghly in favor of BJP led NDA (National Democratic Alliance). I would gradually add more analysis figures based on the actual outcomes and basis the data from election commission of India, so stay tuned!
+```{r echo = FALSE}
+processed_results_2019 <- final_results_2019 %>%
+  janitor::clean_names() %>%
+  select(states,region,nda, upa, others) %>% 
+ gather(key = "coalition",
+               value = "seats", 3:5) %>%
+  mutate(coalition = str_to_upper(coalition)) %>% 
+  filter(seats!=0) %>% 
+  mutate(coalition = factor(coalition, levels = c('NDA','UPA','OTHERS')))
+         
+         
+ 
+
+processed_results_2019 %>% 
+  ggplot(aes(states, seats)) +
+  geom_col(aes(fill = coalition), show.legend = FALSE) +
+  coord_flip() +
+  facet_grid(~coalition) +
+  geom_text(aes(label = seats), size = 3, hjust = 0.5, vjust = 1.5, angle = 90, color = "black") +
+  labs(x = "States/Uninon Territories", 
+         y = " Number of parliamentary seats won", 
+         subtitle = "Seats secured by major political coalitions- the majority mark is 272.", 
+        title = "Indian Election Results: NDA-349 UPA-95 OTHERS-99") +
+  scale_fill_manual(values = c("NDA" = "Orange", "UPA" = "purple", "OTHERS" = "darkgreen"))
+```
