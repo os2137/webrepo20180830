@@ -14,20 +14,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
-
+    weight = 1
+    
 [[menu.main]]
     name = "Resume"
     url = "/Resume_Onkar_Singh.pdf/"
-    
+    weight = 2
 
 [[menu.main]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/onkarsinghcsranddevelopment/"
-
+    weight = 3
+    
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/onkartweets"
-    
+    weight = 4
 
 
 
