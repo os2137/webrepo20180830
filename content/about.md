@@ -12,4 +12,4 @@ Area of Expertise
 Corporate Social Responsibility and Community Development, Employee Engagement, Supply Chain Sustainability, GRI and CSR Reporting, Education and Skill Development.
 
 
-[Check Out My Resume](http://onkarsingh.rbind.io/resume/)
+[Check Out My Resume](http://onkarsingh.rbind.io/resume_onkar_singh.pdf/)
