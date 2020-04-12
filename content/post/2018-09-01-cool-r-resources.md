@@ -51,7 +51,16 @@ categories: []
 
 - [Rectangling in tidyr](https://tidyr.tidyverse.org/dev/articles/rectangle.html)
 
+
 **Visualization**
+
+- [ggplot2: Elegant Graphics for Data Analysis by Hadley Wickham](https://ggplot2-book.org/)
+
+- [ggplot2 extensions - gallery](http://www.ggplot2-exts.org/gallery/)
+
+- [Data Visualization A practical introduction by Kieran Healy](http://socviz.co/)
+
+- [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz/)
 
 - [R Graphics Cookbook, 2nd edition by Winston Chang](https://r-graphics.org/)
 
