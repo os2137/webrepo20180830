@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Onkar Singh" />
@@ -256,9 +256,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -272,7 +270,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -289,8 +286,6 @@ summary {
 </style>
 
 
-
-<div class="container-fluid main-container">
 
 <!-- tabsets -->
 
@@ -336,6 +331,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -348,20 +344,17 @@ summary {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -371,42 +364,73 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">Cool R Resources-Books and Webpages</h1>
-<h4 class="author"><em>Onkar Singh</em></h4>
-<h4 class="date"><em>2018-09-29</em></h4>
+<h4 class="author">Onkar Singh</h4>
+<h4 class="date">2018-09-29</h4>
 
 </div>
 
 
+<p><strong>Books</strong></p>
 <ul>
-<li><a href="http://r4ds.had.co.nz/">R for Data Science Book by Hadley Wickham and Garrett Grolemund</a></li>
-<li><a href="http://adv-r.had.co.nz/">Advanced R by Hadley Wickham</a></li>
-<li><a href="https://advanced-r-solutions.rbind.io/">Advanced R Solutions</a></li>
-<li><a href="https://rstudio-education.github.io/hopr/">Hands-On Programming with R</a></li>
-<li><a href="https://style.tidyverse.org/">The tidyverse style guide</a></li>
-<li><a href="https://whattheyforgot.org/">What They Forgot to Teach You About R by Jennifer Bryan, Jim Hester</a></li>
-<li><a href="https://moderndive.com/">An Introduction to Statistical and Data Sciences via R</a></li>
-<li><a href="https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/">Hands-on Machine Learning with R</a></li>
-<li><a href="https://bookdown.org/yihui/rmarkdown/">R Markdown: The Definitive Guide</a></li>
-<li><a href="https://bookdown.org/">Check Out Various R Books in the Bookdown</a></li>
-<li><a href="http://happygitwithr.com/">Happy Git and GitHub for the useR</a></li>
-<li><a href="https://www.tidytextmining.com/">Tidy Text Mining with R</a></li>
-<li><a href="https://www.tidyverse.org/">Tidyverse webpage</a></li>
-<li><a href="http://asdfree.com/">Analyzing Suvery in R</a></li>
-<li><a href="http://appliedpredictivemodeling.com/user2014">Applied Predictive Modelling</a></li>
-<li><a href="http://www.feat.engineering/">Feature Engineering and Selection: A Practical Approach for Predictive Models</a></li>
-<li><a href="https://github.com/rstudio-education">R-Studio Education Repo on Github</a></li>
-<li><a href="https://web.stanford.edu/~hastie/ElemStatLearn/">The Elements of Statiscal Learning</a></li>
-<li><a href="http://www.storybench.org/">Storybench</a></li>
-<li><a href="https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82">R4DS Online Community</a></li>
-<li><a href="https://medium.com/@heathernolis/r-can-api-c184951a24a3">R can API and So Can You!</a></li>
-<li><a href="https://speakerdeck.com/davisvaughan/time-series-and-financial-analysis-in-the-tidyverse?slide=58">Time series &amp; financial analysis in the tidyverse deck by Davis Vaughan</a></li>
-<li><a href="https://swirlstats.com/">swirl</a></li>
-<li><a href="https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/">R resources (free courses, books, tutorials, &amp; cheat sheets)</a></li>
-<li><a href="https://tidyr.tidyverse.org/dev/articles/pivot.html">tidyr Pivoting</a></li>
-<li><a href="https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets">Code Snippets</a></li>
-<li><a href="https://here.r-lib.org/">here: A simple interface to rprojroot</a></li>
+<li><p><a href="http://r4ds.had.co.nz/">R for Data Science Book by Hadley Wickham and Garrett Grolemund</a></p></li>
+<li><p><a href="https://jrnold.github.io/r4ds-exercise-solutions/">Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress</a></p></li>
+<li><p><a href="http://adv-r.had.co.nz/">Advanced R by Hadley Wickham</a></p></li>
+<li><p><a href="https://advanced-r-solutions.rbind.io/">Advanced R Solutions</a></p></li>
+<li><p><a href="https://rstudio-education.github.io/hopr/">Hands-On Programming with R</a></p></li>
+<li><p><a href="https://moderndive.com/">Statistical Inference via Data Science: A ModernDive into R and the tidyverse</a></p></li>
+<li><p><a href="https://rstudio-education.github.io/tidyverse-cookbook/">The Tidyverse Cookbook Edited by Garrett Grolemund</a></p></li>
+<li><p><a href="https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/">Hands-on Machine Learning with R</a></p></li>
+<li><p><a href="https://www.tidymodels.org/">Tidymodels</a></p></li>
+<li><p><a href="https://style.tidyverse.org/">The tidyverse style guide</a></p></li>
+<li><p><a href="https://bookdown.org/yihui/rmarkdown/">R Markdown: The Definitive Guide</a></p></li>
+<li><p><a href="https://bookdown.org/">Check Out Various R Books in the Bookdown</a></p></li>
+<li><p><a href="http://happygitwithr.com/">Happy Git and GitHub for the useR</a></p></li>
+<li><p><a href="https://www.tidyverse.org/">Tidyverse webpage</a></p></li>
+<li><p><a href="https://education.rstudio.com/learn/">Finding Your Way To R</a></p></li>
+<li><p><a href="http://asdfree.com/">Analyzing Suvery in R</a></p></li>
+<li><p><a href="http://appliedpredictivemodeling.com/user2014">Applied Predictive Modelling</a></p></li>
+<li><p><a href="http://www.feat.engineering/">Feature Engineering and Selection: A Practical Approach for Predictive Models</a></p></li>
+<li><p><a href="https://web.stanford.edu/~hastie/ElemStatLearn/">The Elements of Statiscal Learning</a></p></li>
 </ul>
-<p><strong>Visualization</strong> - <a href="https://r-graphics.org/">R Graphics Cookbook, 2nd edition by Winston Chang</a> - <a href="https://www.data-to-viz.com/index.html">From Data to Visualization</a> - <a href="https://plotly-r.com/">Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert</a> - <a href="https://gramener.github.io/visual-vocabulary-vega/">Visual Vocabulary</a> - <a href="http://vita.had.co.nz/papers/layered-grammar.pdf">A Layered Grammar of Graphics by Hadley Wickham</a> - <a href="http://book.flowingdata.com/">Visualize This</a> - <a href="https://plotly-book.cpsievert.me/">plotly for R by Carson Sievert</a> - <a href="https://bbc.github.io/rcookbook/">BBC Visual and Data Journalism cookbook for R graphics</a></p>
+<p><strong>Text Mining</strong></p>
+<ul>
+<li><p><a href="https://www.tidytextmining.com/">Tidy Text Mining with R</a></p></li>
+<li><p><a href="https://stringr.tidyverse.org/articles/from-base.html">Base R vs stringr</a></p></li>
+</ul>
+<p><strong>Data Manipulation &amp; Transformation</strong></p>
+<ul>
+<li><p><a href="https://tidyr.tidyverse.org/dev/articles/pivot.html">tidyr Pivoting</a></p></li>
+<li><p><a href="https://tidyr.tidyverse.org/dev/articles/rectangle.html">Rectangling in tidyr</a></p></li>
+</ul>
+<p><strong>Visualization</strong></p>
+<ul>
+<li><p><a href="https://ggplot2-book.org/">ggplot2: Elegant Graphics for Data Analysis by Hadley Wickham</a></p></li>
+<li><p><a href="http://www.ggplot2-exts.org/gallery/">ggplot2 extensions - gallery</a></p></li>
+<li><p><a href="http://socviz.co/">Data Visualization A practical introduction by Kieran Healy</a></p></li>
+<li><p><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization by Claus O. Wilke</a></p></li>
+<li><p><a href="https://r-graphics.org/">R Graphics Cookbook, 2nd edition by Winston Chang</a></p></li>
+<li><p><a href="https://rkabacoff.github.io/datavis/">Data Visualization with R by Rob Kabacoff</a></p></li>
+<li><p><a href="https://www.data-to-viz.com/index.html">From Data to Visualization</a></p></li>
+<li><p><a href="https://plotly-r.com/">Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert</a></p></li>
+<li><p><a href="https://gramener.github.io/visual-vocabulary-vega/">Visual Vocabulary</a></p></li>
+<li><p><a href="http://vita.had.co.nz/papers/layered-grammar.pdf">A Layered Grammar of Graphics by Hadley Wickham</a></p></li>
+<li><p><a href="http://book.flowingdata.com/">Visualize This</a></p></li>
+<li><p><a href="https://plotly-book.cpsievert.me/">plotly for R by Carson Sievert</a></p></li>
+<li><p><a href="https://bbc.github.io/rcookbook/">BBC Visual and Data Journalism cookbook for R graphics</a></p></li>
+<li><p><a href="https://whattheyforgot.org/">What They Forgot to Teach You About R by Jennifer Bryan, Jim Hester</a></p></li>
+</ul>
+<p><strong>Other Resources</strong></p>
+<ul>
+<li><p><a href="https://github.com/rstudio-education">R-Studio Education Repo on Github</a></p></li>
+<li><p><a href="http://www.storybench.org/">Storybench</a></p></li>
+<li><p><a href="https://medium.com/@kierisi/r4ds-the-next-iteration-d51e0a1b0b82">R4DS Online Community</a></p></li>
+<li><p><a href="https://medium.com/@heathernolis/r-can-api-c184951a24a3">R can API and So Can You!</a></p></li>
+<li><p><a href="https://speakerdeck.com/davisvaughan/time-series-and-financial-analysis-in-the-tidyverse?slide=58">Time series &amp; financial analysis in the tidyverse deck by Davis Vaughan</a></p></li>
+<li><p><a href="https://swirlstats.com/">swirl</a></p></li>
+<li><p><a href="https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/">R resources (free courses, books, tutorials, &amp; cheat sheets)</a></p></li>
+<li><p><a href="https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets">Code Snippets</a></p></li>
+<li><p><a href="https://here.r-lib.org/">here: A simple interface to rprojroot</a></p></li>
+</ul>
 
 
 
@@ -425,6 +449,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
