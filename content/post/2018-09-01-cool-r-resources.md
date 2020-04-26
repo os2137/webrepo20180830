@@ -11,15 +11,20 @@ categories: []
 
 - [R for Data Science Book by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/)
 
+- [Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress](https://jrnold.github.io/r4ds-exercise-solutions/)
+
 - [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 
 - [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
 
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
-- [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)
+- [Statistical Inference via Data Science: A ModernDive into R and the tidyverse](https://moderndive.com/)
+
+- [The Tidyverse Cookbook Edited by Garrett Grolemund](https://rstudio-education.github.io/tidyverse-cookbook/) 
 
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/)
+- [Tidymodels](https://www.tidymodels.org/)
 
 - [The tidyverse style guide](https://style.tidyverse.org/)
 
@@ -30,6 +35,8 @@ categories: []
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 
 - [Tidyverse webpage](https://www.tidyverse.org/)
+
+- [Finding Your Way To R](https://education.rstudio.com/learn/)
 
 - [Analyzing Suvery in R](http://asdfree.com/)
 
@@ -63,6 +70,8 @@ categories: []
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz/)
 
 - [R Graphics Cookbook, 2nd edition by Winston Chang](https://r-graphics.org/)
+
+- [Data Visualization with R by Rob Kabacoff](https://rkabacoff.github.io/datavis/)
 
 - [From Data to Visualization](https://www.data-to-viz.com/index.html)
 
