@@ -107,4 +107,4 @@ categories: []
 
 - [Code Snippets](https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets)
 
-- [ here: A simple interface to rprojroot](https://here.r-lib.org/)
+- [here: A simple interface to rprojroot](https://here.r-lib.org/)
