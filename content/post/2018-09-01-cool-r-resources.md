@@ -63,15 +63,17 @@ categories: []
 
 - [ggplot2: Elegant Graphics for Data Analysis by Hadley Wickham](https://ggplot2-book.org/)
 
-- [ggplot2 extensions - gallery](http://www.ggplot2-exts.org/gallery/)
-
 - [Data Visualization A practical introduction by Kieran Healy](http://socviz.co/)
 
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz/)
 
 - [R Graphics Cookbook, 2nd edition by Winston Chang](https://r-graphics.org/)
 
+- [Data Visualization Use R, ggplot2, and the principles of graphic design by Dr. Andrew Heiss](https://datavizm20.classes.andrewheiss.com/) 
+
 - [Data Visualization with R by Rob Kabacoff](https://rkabacoff.github.io/datavis/)
+
+- [ggplot2 extensions - gallery](http://www.ggplot2-exts.org/gallery/)
 
 - [From Data to Visualization](https://www.data-to-viz.com/index.html)
 
