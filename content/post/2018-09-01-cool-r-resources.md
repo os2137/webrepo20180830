@@ -13,7 +13,7 @@ categories: []
 
 - [Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress](https://jrnold.github.io/r4ds-exercise-solutions/)
 
-- [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+- [Advanced R 2nd Edition by Hadley Wickham](https://adv-r.hadley.nz/)
 
 - [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
 
@@ -57,6 +57,9 @@ categories: []
 - [tidyr Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
 
 - [Rectangling in tidyr](https://tidyr.tidyverse.org/dev/articles/rectangle.html)
+
+- [Learning Statistics with R by Danielle Navarro](https://learningstatisticswithr.com/)
+
 
 
 **Visualization**
