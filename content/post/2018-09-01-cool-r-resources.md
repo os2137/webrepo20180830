@@ -92,7 +92,7 @@ categories: []
 
 - [BBC Visual and Data Journalism cookbook for R    graphics](https://bbc.github.io/rcookbook/)
 
--[A Toolbox for Manipulating and Assessing Colors and Palettes](http://colorspace.r-forge.r-project.org/index.html)
+- [A Toolbox for Manipulating and Assessing Colors and Palettes](http://colorspace.r-forge.r-project.org/index.html)
 
 - [What They Forgot to Teach You About R by Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
 
