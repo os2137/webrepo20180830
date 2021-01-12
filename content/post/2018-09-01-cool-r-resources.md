@@ -9,6 +9,7 @@ categories: []
 
 **Books**
 
+- [Big Book of R](https://www.bigbookofr.com/)
 - [R for Data Science Book by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/)
 
 - [Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress](https://jrnold.github.io/r4ds-exercise-solutions/)
