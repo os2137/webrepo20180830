@@ -97,13 +97,19 @@ categories: []
 
 - [What They Forgot to Teach You About R by Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
 
+- [Automating exploratory plots with ggplot2 and purrr](https://aosmith.rbind.io/2018/08/20/automating-exploratory-plots/)
+
 **Databases**
+
 - [Using the tidyverse with Databases - Part I](https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/)
 
 - [Using the tidyverse with Databases - Part II](https://sciencificity-blog.netlify.app/posts/2020-12-20-using-the-tidyverse-with-dbs-partii/)
 
 - [Using the tidyverse with Databases - Part III](https://sciencificity-blog.netlify.app/posts/2020-12-31-using-tidyverse-with-dbs-partiii/)
 
+**Tables**
+
+- [Create Awesome HTML Table with knitr::kable and kableExtra](https://cloud.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
 
 **Other Resources**
 
