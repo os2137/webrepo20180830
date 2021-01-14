@@ -97,6 +97,14 @@ categories: []
 
 - [What They Forgot to Teach You About R by Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
 
+**Databases**
+- [Using the tidyverse with Databases - Part I](https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/)
+
+- [Using the tidyverse with Databases - Part II](https://sciencificity-blog.netlify.app/posts/2020-12-20-using-the-tidyverse-with-dbs-partii/)
+
+- [Using the tidyverse with Databases - Part III](https://sciencificity-blog.netlify.app/posts/2020-12-31-using-tidyverse-with-dbs-partiii/)
+
+
 **Other Resources**
 
 - [ R-Studio Education Repo on Github](https://github.com/rstudio-education)
