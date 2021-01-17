@@ -9,6 +9,7 @@ categories: []
 
 **Books**
 
+- [Big Book of R](https://www.bigbookofr.com/)
 - [R for Data Science Book by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/)
 
 - [Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress](https://jrnold.github.io/r4ds-exercise-solutions/)
@@ -92,7 +93,28 @@ categories: []
 
 - [BBC Visual and Data Journalism cookbook for R    graphics](https://bbc.github.io/rcookbook/)
 
+- [A Toolbox for Manipulating and Assessing Colors and Palettes](http://colorspace.r-forge.r-project.org/index.html)
+
 - [What They Forgot to Teach You About R by Jennifer Bryan, Jim Hester](https://whattheyforgot.org/)
+
+- [Automating exploratory plots with ggplot2 and purrr](https://aosmith.rbind.io/2018/08/20/automating-exploratory-plots/)
+- [Data Viz Bookmarks-TidyTuesday](https://www.notion.so/Data-Viz-Bookmarks-dc01718020bd4fd6a8a4ca80e6bce933)
+- [paletteer](https://github.com/EmilHvitfeldt/paletteer)
+
+
+**Databases**
+
+- [Using the tidyverse with Databases - Part I](https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/)
+
+- [Using the tidyverse with Databases - Part II](https://sciencificity-blog.netlify.app/posts/2020-12-20-using-the-tidyverse-with-dbs-partii/)
+
+- [Using the tidyverse with Databases - Part III](https://sciencificity-blog.netlify.app/posts/2020-12-31-using-tidyverse-with-dbs-partiii/)
+
+- [Generating SQL with {dbplyr} and sqlfluff](https://emilyriederer.netlify.app/post/sql-generation/)
+
+**Tables**
+
+- [Create Awesome HTML Table with knitr::kable and kableExtra](https://cloud.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
 
 **Other Resources**
 
