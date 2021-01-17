@@ -110,6 +110,8 @@ categories: []
 
 - [Using the tidyverse with Databases - Part III](https://sciencificity-blog.netlify.app/posts/2020-12-31-using-tidyverse-with-dbs-partiii/)
 
+- [Generating SQL with {dbplyr} and sqlfluff](https://emilyriederer.netlify.app/post/sql-generation/)
+
 **Tables**
 
 - [Create Awesome HTML Table with knitr::kable and kableExtra](https://cloud.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
