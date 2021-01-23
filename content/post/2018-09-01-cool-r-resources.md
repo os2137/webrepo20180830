@@ -101,6 +101,8 @@ categories: []
 - [Data Viz Bookmarks-TidyTuesday](https://www.notion.so/Data-Viz-Bookmarks-dc01718020bd4fd6a8a4ca80e6bce933)
 - [paletteer](https://github.com/EmilHvitfeldt/paletteer)
 
+- [R Graph Gallery](https://www.r-graph-gallery.com/)
+
 
 **Databases**
 

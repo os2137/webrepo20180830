@@ -1,0 +1,138 @@
+---
+title: 'Google Search: What are Indians Looking for During the Covid19 Crisis'
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r, include = FALSE}
+library(tidyverse)
+library(janitor)
+library(ggrepel)
+library(plotly)
+library(scales)
+library(here)
+library(googlesheets4)
+library(googledrive)
+
+# devtools::install_github("tidyverse/googlesheets4")
+
+
+
+help(package = "googlesheets4")
+help(package = "googledrive")
+help(package = "scales")
+help(package = "ggplot2")
+help(package = "plotly")
+help(package = "here")
+```
+
+
+```{r}
+here("search_india")
+```
+
+
+```{r, include = FALSE}
+ss = "https://docs.google.com/spreadsheets/d/1_s2YD5pA4Nb25BA5MXWQJymKEUVaBOh_1Z-IhgucQnE/edit#gid=1972791971"
+```
+
+```{r, include = FALSE}
+search_india <- range_read(ss = ss, sheet = "search_india") %>% 
+  clean_names() 
+```
+
+
+
+```{r, echo = FALSE}
+g <- search_india %>%
+  # filter(category == "on demand gratification") %>%
+  mutate(
+    what_is_india_searching_for = str_to_title(what_is_india_searching_for),
+    category = str_to_upper(category)
+  ) %>%
+  mutate(
+    what_is_india_searching_for = fct_reorder(
+      as.factor(what_is_india_searching_for),
+      percent_increase_in_searches_during_covid_19
+    )
+  ) %>%
+  ggplot(
+    aes(x = what_is_india_searching_for, y = percent_increase_in_searches_during_covid_19, fill = category)
+  ) +
+  geom_col() +
+  theme(legend.position = "top") +
+  scale_y_continuous(labels =  label_percent(scale = 1)) +
+  coord_flip() +
+  geom_text(aes(label = paste0( percent_increase_in_searches_during_covid_19, '%')),
+            color = "black") +
+  # facet_grid(~category) +
+  # theme(axis.text.x= element_blank()) +
+  labs(
+    # title = "Online Searches in India during the Covid19 Crisis",
+    # subtitle = "Insights from: What is India searching for? Insights for brands:google report",
+    x = "What is India Searching for during Covid 19 Crisis",
+    y = " % Increase in Searches during Covid 19 ",
+    fill = "Search Category",
+    caption = "source: Google: What is India searching for: Insights for brands"
+  )
+#  +
+ggrepel::geom_label_repel(aes(label = percent_increase_in_searches_during_covid_19))
+
+g
+```
+
+
+
+
+
+
+
+
+```{r, eco = FALSE}
+plotly::ggplotly(g)
+```
+
+
+```{r, echo = FALSE}
+g1 <- search_india %>% 
+  # filter(category == "on demand videos") %>% 
+  mutate(what_is_india_searching_for = str_to_title(what_is_india_searching_for), 
+                                                     category = str_to_upper(category)) %>% 
+  mutate(what_is_india_searching_for = fct_reorder(as.factor(what_is_india_searching_for), percent_increase_in_searches_during_covid_19)) %>% 
+  ggplot(aes(x = what_is_india_searching_for, y = percent_increase_in_searches_during_covid_19, fill = category )) + 
+  geom_col() +
+  theme(legend.position = "none")+
+  scale_fill_discrete(labels = NULL) +
+  scale_y_continuous(labels =  label_percent(scale = 1)) +
+  coord_flip() +
+  geom_text(aes(label = paste0(percent_increase_in_searches_during_covid_19, "%")), color = "black") +
+facet_wrap(~category, scales = "free") +
+  # theme(axis.text.x= element_blank()) +
+  labs(
+  # title = "Online Searches in India during the Covid19 Crisis",
+       # subtitle = "Insights from: What is India searching for? Insights for brands:google report",
+       x = "What is India Searching for during Covid 19 Crisis",
+       y = " % Increase in Searches during Covid 19 ",
+       fill = "Search Category", 
+       caption = "source: Google report: What is India searching for: Insights for brands")
+#  +
+#   ggrepel::geom_label_repel(aes(label =  what_is_india_searching_for), show.legend = FALSE)
+
+g1
+```
+
+
+```{r, echo = FALSE}
+ggplotly(g1)
+```
+
+```{r}
+here <- here("search india", "figure")
+ggsave(path = here, "bcd.png", plot = g, width =  35, height = 20, units = "cm")
+
+ggsave(search_india", "figures", "summaryplot.png", plot = g, width =  35, height = 20, units = "cm")
+ggsave("search_india", "figures", detailedplot.pdf", plot = g1, width =  35, height = 20, units = "cm")
+ggsave("search_india", "figures", summaryplot.pdf", plot = g, width =  35, height = 20, units = "cm")
+
+

@@ -17,6 +17,7 @@ library(tidyverse)
 library(ggplot2)
 theme_set(theme_light())
 exit_polls_2019 <- read_csv("exit_polls_2019.csv")
+
 ```
 
 
