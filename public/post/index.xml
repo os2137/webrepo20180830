@@ -1,55 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A Hugo website</title>
+    <title>Posts on onkarsingh website</title>
     <link>/post/</link>
-    <description>Recent content in Posts on A Hugo website</description>
+    <description>Recent content in Posts on onkarsingh website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My first blogdown post</title>
-      <link>/2018/08/31/my-first-blogdown-post/</link>
-      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Coronovirus in India_Dashboard</title>
+      <link>/2020/04/18/coronovirus-in-india-dashboard/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2018/08/31/my-first-blogdown-post/</guid>
-      <description>This is my first post and i wanted to do some plotting from iris dataset
-https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-4/
-plot(iris)scatter.smooth(iris)blogdown::hugo_version()## [1] &amp;#39;0.47.1&amp;#39;</description>
+      <guid>/2020/04/18/coronovirus-in-india-dashboard/</guid>
+      <description>SummaryRowconfirmedvalueBox(value = paste(format(sum(df$confirmed), big.mark = &amp;quot;,&amp;quot;), &amp;quot;&amp;quot;, sep = &amp;quot; &amp;quot;),caption = &amp;quot;Total confirmed cases&amp;quot;,icon = &amp;quot;fas fa-user-md&amp;quot;,color = confirmed_color)14,352 deathvalueBox(value = paste(format(sum(df$death, na.rm = TRUE), big.mark = &amp;quot;,&amp;quot;), &amp;quot; (&amp;quot;,round(100 * sum(df$death, na.rm = TRUE) / sum(df$confirmed), 1),&amp;quot;%)&amp;quot;,sep = &amp;quot;&amp;quot;),caption = &amp;quot;Death cases (death rate)&amp;quot;,icon = &amp;quot;fas fa-heart-broken&amp;quot;,color = death_color)486 (3.</description>
     </item>
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title>Indian Parliamentary Election 2019 - Part 2- Final Results</title>
+      <link>/2019/06/20/indian-parliamentary-election-2019-part-2-final-results/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>/2019/06/20/indian-parliamentary-election-2019-part-2-final-results/</guid>
+      <description>The figure below shows the actual results when the results were counted on 23rd May 2019. The results were overwhelminghly in favor of BJP led NDA (National Democratic Alliance). I would gradually add more analysis figures based on the actual outcomes and basis the data from election commission of India, so stay tuned!</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Indian Parliamentary Election 2019 - Part 1-Exit Polls</title>
+      <link>/2019/06/19/indian-parliamentary-election-2019-part-1/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/2019/06/19/indian-parliamentary-election-2019-part-1/</guid>
+      <description>The figure below shows the exit polls results conducted by major Indian television channel and associated poll agencies</description>
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      <title>Help that got me started</title>
+      <link>/2018/09/30/help-that-got-me-started/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/2018/09/30/help-that-got-me-started/</guid>
+      <description>This is my first post and I wanted to post this super helpful link which got me started on my website.
+Blogdown Tutorial</description>
+    </item>
+    
+    <item>
+      <title>Cool R Resources-Books and Webpages</title>
+      <link>/2018/09/29/cool-r-resources/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/29/cool-r-resources/</guid>
+      <description>Books
+  R for Data Science Book by Hadley Wickham and Garrett Grolemund
+  Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress
+  Advanced R by Hadley Wickham
+  Advanced R Solutions
+  Hands-On Programming with R
+  Statistical Inference via Data Science: A ModernDive into R and the tidyverse
+  The Tidyverse Cookbook Edited by Garrett Grolemund
+  Hands-on Machine Learning with R</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on A Hugo website</title>
+    <title>Test on onkarsingh website</title>
     <link>/categories/test/</link>
-    <description>Recent content in Test on A Hugo website</description>
+    <description>Recent content in Test on onkarsingh website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Aug 2018 00:00:00 +0000</lastBuildDate>
@@ -18,8 +18,7 @@
       
       <guid>/2018/08/31/my-first-blogdown-post/</guid>
       <description>This is my first post and i wanted to do some plotting from iris dataset
-https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-4/
-plot(iris)scatter.smooth(iris)blogdown::hugo_version()## [1] &amp;#39;0.47.1&amp;#39;</description>
+Tutorial</description>
     </item>
     
   </channel>
