@@ -1,7 +1,7 @@
 ---
 title: "Cool R Resources-Books and Webpages"
 author: "Onkar Singh"
-date: `r format(Sys.Date(), "%d. %B %Y")`
+date: `r format(Sys.Date(), "%d %B %Y")`
 slug: cool-r-resources
 tags: []
 categories: []
