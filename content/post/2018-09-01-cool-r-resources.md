@@ -45,6 +45,8 @@ categories: []
 
 -   [Applied Predictive Modelling](http://appliedpredictivemodeling.com/user2014)
 
+- [Tidyverse design guide](https://design.tidyverse.org/)
+
 -   [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 
 -   [The Elements of Statiscal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
