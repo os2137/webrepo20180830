@@ -81,8 +81,6 @@ categories: []
 
 -   [From Data to Visualization](https://www.data-to-viz.com/index.html)
 
--   [Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert](https://plotly-r.com/)
-
 -   [Visual Vocabulary](https://gramener.github.io/visual-vocabulary-vega/)
 
 -   [A Layered Grammar of Graphics by Hadley Wickham](http://vita.had.co.nz/papers/layered-grammar.pdf)
@@ -104,6 +102,23 @@ categories: []
 -   [paletteer](https://github.com/EmilHvitfeldt/paletteer)
 
 -   [R Graph Gallery](https://www.r-graph-gallery.com/)
+
+
+**Shiny**
+
+-  [Mastering Shiny](https://mastering-shiny.org/)
+
+-   [Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert](https://plotly-r.com/)
+
+- [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+
+- [Shiny Widget Gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)
+
+- [Extentesions-where next](https://laderast.github.io/gradual_shiny/where-next.html)
+
+
+
+
 
 **Databases**
 
