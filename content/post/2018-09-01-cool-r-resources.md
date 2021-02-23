@@ -118,6 +118,8 @@ categories: []
 
 - [Extentesions-where next](https://laderast.github.io/gradual_shiny/where-next.html)
 
+- [thematic Auto theming by Carson Sievert](https://rstudio.github.io/thematic/articles/auto.html)
+
 
 
 
