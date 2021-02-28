@@ -35,8 +35,6 @@ categories: []
 
 -   [Check Out Various R Books in the Bookdown](https://bookdown.org/)
 
--   [Happy Git and GitHub for the useR](http://happygitwithr.com/)
-
 -   [Tidyverse webpage](https://www.tidyverse.org/)
 
 -   [Finding Your Way To R](https://education.rstudio.com/learn/)
@@ -152,6 +150,11 @@ categories: []
 - [officeverse by David Gohel](https://ardata-fr.github.io/officeverse/)
 - [Using the flextable R package](https://ardata-fr.github.io/flextable-book/)
 
+
+**Git and Github**
+
+- [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
 
 
