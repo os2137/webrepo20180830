@@ -143,6 +143,7 @@ categories: []
 
 - [slidex Convert PowerPoint Slides to xaringan (remark.js) Slides Daniel Anderson](https://github.com/datalorax/slidex)
 ]
+- - [xaringanextra- Extra Special xaringan Presentations](https://pkg.garrickadenbuie.com/xaringanExtra/#/?id=xaringanextra)
 
 
 **Officeverse**
@@ -177,4 +178,6 @@ categories: []
 -   [Code Snippets](https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets)
 
 -   [here: A simple interface to rprojroot](https://here.r-lib.org/)
+
+
 
