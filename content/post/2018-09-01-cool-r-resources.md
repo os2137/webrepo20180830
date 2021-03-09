@@ -1,7 +1,7 @@
 ---
 title: "Cool R Resources-Books and Webpages"
 author: "Onkar Singh"
-date: '2021-01-26'
+date: '2018-09-29'
 slug: cool-r-resources
 tags: []
 categories: []
@@ -35,8 +35,6 @@ categories: []
 
 -   [Check Out Various R Books in the Bookdown](https://bookdown.org/)
 
--   [Happy Git and GitHub for the useR](http://happygitwithr.com/)
-
 -   [Tidyverse webpage](https://www.tidyverse.org/)
 
 -   [Finding Your Way To R](https://education.rstudio.com/learn/)
@@ -44,8 +42,6 @@ categories: []
 -   [Analyzing Suvery in R](http://asdfree.com/)
 
 -   [Applied Predictive Modelling](http://appliedpredictivemodeling.com/user2014)
-
-- [Tidyverse design guide](https://design.tidyverse.org/)
 
 -   [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 
@@ -72,6 +68,7 @@ categories: []
 -   [Data Visualization A practical introduction by Kieran Healy](http://socviz.co/)
 
 -   [Fundamentals of Data Visualization by Claus O. Wilke](https://serialmentor.com/dataviz/)
+-   [Claus O Wilke's Class](https://wilkelab.org/SDS375/syllabus.html)
 
 -   [R Graphics Cookbook, 2nd edition by Winston Chang](https://r-graphics.org/)
 
@@ -82,8 +79,6 @@ categories: []
 -   [ggplot2 extensions - gallery](http://www.ggplot2-exts.org/gallery/)
 
 -   [From Data to Visualization](https://www.data-to-viz.com/index.html)
-
--   [Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert](https://plotly-r.com/)
 
 -   [Visual Vocabulary](https://gramener.github.io/visual-vocabulary-vega/)
 
@@ -106,6 +101,26 @@ categories: []
 -   [paletteer](https://github.com/EmilHvitfeldt/paletteer)
 
 -   [R Graph Gallery](https://www.r-graph-gallery.com/)
+-   [A complete guide to scales by Christian Burkhart](https://ggplot2tor.com/scales/)
+
+
+**Shiny**
+
+-  [Mastering Shiny](https://mastering-shiny.org/)
+
+-  [Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert](https://plotly-r.com/)
+
+- [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+
+- [Shiny Widget Gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)
+
+- [Extentesions-where next](https://laderast.github.io/gradual_shiny/where-next.html)
+
+- [thematic Auto theming by Carson Sievert](https://rstudio.github.io/thematic/articles/auto.html)
+
+
+
+
 
 **Databases**
 
@@ -120,6 +135,28 @@ categories: []
 **Tables**
 
 -   [Create Awesome HTML Table with knitr::kable and kableExtra](https://cloud.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+
+
+**Presentation**
+
+-  [Sharing Your Work with xaringan by Silvia Canelón](https://spcanelon.github.io/xaringan-basics-and-beyond/index.html)
+
+- [slidex Convert PowerPoint Slides to xaringan (remark.js) Slides Daniel Anderson](https://github.com/datalorax/slidex)
+]
+
+
+**Officeverse**
+
+- [officeverse by David Gohel](https://ardata-fr.github.io/officeverse/)
+- [Using the flextable R package](https://ardata-fr.github.io/flextable-book/)
+
+
+**Git and Github**
+
+- [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+
+
 
 **Other Resources**
 
@@ -140,3 +177,4 @@ categories: []
 -   [Code Snippets](https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets)
 
 -   [here: A simple interface to rprojroot](https://here.r-lib.org/)
+
