@@ -1,0 +1,12 @@
+---
+title: New Test Post
+author: Onkar Singh
+date: '2021-03-09'
+slug: new-test-post
+categories: []
+tags: []
+---
+
+
+This is a new test post to check if the post is syncing between github and the main site http://onkarsingh.rbind.io/
+
