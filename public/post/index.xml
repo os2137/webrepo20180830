@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on onkarsingh website</title>
+    <title>Posts on onkar singh website</title>
     <link>/post/</link>
-    <description>Recent content in Posts on onkarsingh website</description>
+    <description>Recent content in Posts on onkar singh website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coronovirus in India_Dashboard</title>
-      <link>/2020/04/18/coronovirus-in-india-dashboard/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <title>New Test Post</title>
+      <link>/2021/03/09/new-test-post/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2020/04/18/coronovirus-in-india-dashboard/</guid>
-      <description>SummaryRowconfirmedvalueBox(value = paste(format(sum(df$confirmed), big.mark = &amp;quot;,&amp;quot;), &amp;quot;&amp;quot;, sep = &amp;quot; &amp;quot;),caption = &amp;quot;Total confirmed cases&amp;quot;,icon = &amp;quot;fas fa-user-md&amp;quot;,color = confirmed_color)14,352 deathvalueBox(value = paste(format(sum(df$death, na.rm = TRUE), big.mark = &amp;quot;,&amp;quot;), &amp;quot; (&amp;quot;,round(100 * sum(df$death, na.rm = TRUE) / sum(df$confirmed), 1),&amp;quot;%)&amp;quot;,sep = &amp;quot;&amp;quot;),caption = &amp;quot;Death cases (death rate)&amp;quot;,icon = &amp;quot;fas fa-heart-broken&amp;quot;,color = death_color)486 (3.</description>
+      <guid>/2021/03/09/new-test-post/</guid>
+      <description>This is a new test post to check if the post is syncing between github and the main site http://onkarsingh.rbind.io/</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/06/20/indian-parliamentary-election-2019-part-2-final-results/</guid>
-      <description>The figure below shows the actual results when the results were counted on 23rd May 2019. The results were overwhelminghly in favor of BJP led NDA (National Democratic Alliance). I would gradually add more analysis figures based on the actual outcomes and basis the data from election commission of India, so stay tuned!</description>
+      <description>The figure below shows the actual results when the results were counted on 23rd May 2019. The results were overwhelminghly in favor of BJP led NDA (National Democratic Alliance). I would gradually add more analysis figures based on the actual outcomes and basis the data from election commission of India, so stay tuned!</description>
     </item>
     
     <item>
@@ -35,7 +31,7 @@
       <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/06/19/indian-parliamentary-election-2019-part-1/</guid>
-      <description>The figure below shows the exit polls results conducted by major Indian television channel and associated poll agencies</description>
+      <description>The figure below shows the exit polls results conducted by major Indian television channel and associated poll agencies</description>
     </item>
     
     <item>
@@ -55,14 +51,14 @@ Blogdown Tutorial</description>
       
       <guid>/2018/09/29/cool-r-resources/</guid>
       <description>Books
+  Big Book of R
   R for Data Science Book by Hadley Wickham and Garrett Grolemund
   Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress
-  Advanced R by Hadley Wickham
+  Advanced R 2nd Edition by Hadley Wickham
   Advanced R Solutions
   Hands-On Programming with R
   Statistical Inference via Data Science: A ModernDive into R and the tidyverse
-  The Tidyverse Cookbook Edited by Garrett Grolemund
-  Hands-on Machine Learning with R</description>
+  The Tidyverse Cookbook Edited by Garrett Grolemund</description>
     </item>
     
   </channel>

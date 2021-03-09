@@ -1,38 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on onkarsingh website</title>
+    <title>Categories on onkar singh website</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on onkarsingh website</description>
+    <description>Recent content in Categories on onkar singh website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>dashboard</title>
-      <link>/categories/dashboard/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/dashboard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>/categories/markdown/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/markdown/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>r</title>
       <link>/categories/r/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/r/</guid>
       <description></description>
