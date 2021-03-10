@@ -143,7 +143,7 @@ categories: []
 
 - [slidex Convert PowerPoint Slides to xaringan (remark.js) Slides Daniel Anderson](https://github.com/datalorax/slidex)
 ]
-- - [xaringanextra- Extra Special xaringan Presentations](https://pkg.garrickadenbuie.com/xaringanExtra/#/?id=xaringanextra)
+- [xaringanextra- Extra Special xaringan Presentations](https://pkg.garrickadenbuie.com/xaringanExtra/#/?id=xaringanextra)
 
 
 **Officeverse**
