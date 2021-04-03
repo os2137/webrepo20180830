@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rstats on onkar singh website</title>
+    <link>/tags/rstats/</link>
+    <description>Recent content in rstats on onkar singh website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rstats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indian Parliamentary Election 2019 - Part 2- Final Results</title>
+      <link>/2019/06/20/indian-parliamentary-election-2019-part-2-final-results/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/20/indian-parliamentary-election-2019-part-2-final-results/</guid>
+      <description>The figure below shows the actual results when the results were counted on 23rd May 2019. The results were overwhelminghly in favor of BJP led NDA (National Democratic Alliance). I would gradually add more analysis figures based on the actual outcomes and basis the data from election commission of India, so stay tuned!</description>
+    </item>
+    
+    <item>
+      <title>Indian Parliamentary Election 2019 - Part 1-Exit Polls</title>
+      <link>/2019/06/19/indian-parliamentary-election-2019-part-1/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/19/indian-parliamentary-election-2019-part-1/</guid>
+      <description>The figure below shows the exit polls results conducted by major Indian television channel and associated poll agencies</description>
+    </item>
+    
+  </channel>
+</rss>

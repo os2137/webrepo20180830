@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onkar singh website</title>
+    <link>/</link>
+    <description>Recent content on onkar singh website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Test Post</title>
+      <link>/2021/03/09/new-test-post/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/03/09/new-test-post/</guid>
+      <description>This is a new test post to check if the post is syncing between github and the main site http://onkarsingh.rbind.io/</description>
+    </item>
+    
+    <item>
+      <title>Indian Parliamentary Election 2019 - Part 2- Final Results</title>
+      <link>/2019/06/20/indian-parliamentary-election-2019-part-2-final-results/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/20/indian-parliamentary-election-2019-part-2-final-results/</guid>
+      <description>The figure below shows the actual results when the results were counted on 23rd May 2019. The results were overwhelminghly in favor of BJP led NDA (National Democratic Alliance). I would gradually add more analysis figures based on the actual outcomes and basis the data from election commission of India, so stay tuned!</description>
+    </item>
+    
+    <item>
+      <title>Indian Parliamentary Election 2019 - Part 1-Exit Polls</title>
+      <link>/2019/06/19/indian-parliamentary-election-2019-part-1/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/19/indian-parliamentary-election-2019-part-1/</guid>
+      <description>The figure below shows the exit polls results conducted by major Indian television channel and associated poll agencies</description>
+    </item>
+    
+    <item>
+      <title>Help that got me started</title>
+      <link>/2018/09/30/help-that-got-me-started/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/30/help-that-got-me-started/</guid>
+      <description>This is my first post and I wanted to post this super helpful link which got me started on my website.
+Blogdown Tutorial</description>
+    </item>
+    
+    <item>
+      <title>Cool R Resources-Books and Webpages</title>
+      <link>/2018/09/29/cool-r-resources/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/29/cool-r-resources/</guid>
+      <description>Books
+  Big Book of R
+  R for Data Science Book by Hadley Wickham and Garrett Grolemund
+  Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress
+  Advanced R 2nd Edition by Hadley Wickham
+  Advanced R Solutions
+  Hands-On Programming with R
+  Statistical Inference via Data Science: A ModernDive into R and the tidyverse
+  The Tidyverse Cookbook Edited by Garrett Grolemund</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Master of International Affairs from Columbia University (NYC) with 20 years of in‐depth hands‐on experience in Corporate Social Responsibility, Employee Engagement &amp;amp; Community Development. Proven ability to manage large scale projects with strong communication, stakeholder management and analytical skills. Highly effective at creating multi- stakeholder social initiatives with sustainable community impact.
+Key Skills Strategic Program Development and Management, Stakeholder Management, Compliance Management, Logframe Analysis, Monitoring and Evaluation, Qualitative and Quantitative Research, Reporting and Analytics.</description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
