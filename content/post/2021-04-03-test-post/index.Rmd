@@ -1,0 +1,19 @@
+---
+title: test-post
+author: ''
+date: '2021-04-03'
+slug: test-post
+categories: []
+tags: []
+---
+
+```{r}
+cars
+```
+
+```{r}
+library(ggplot2)
+ggplot(data = cars,  aes(x = speed, y = dist)) + 
+  geom_point(color = "purple")
+```
+
