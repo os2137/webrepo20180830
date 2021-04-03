@@ -1,7 +1,7 @@
 ---
 title: "Cool R Resources-Books and Webpages"
 author: "Onkar Singh"
-date: '2018-09-29'
+date: '2021-04-03'
 slug: cool-r-resources
 tags: []
 categories: []
