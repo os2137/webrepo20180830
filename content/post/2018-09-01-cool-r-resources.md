@@ -159,6 +159,16 @@ categories: []
 
 
 
+**Blogdwon**
+
+- [Summer of Blogdown Day 1 to Day 4](https://summer-of-blogdown.netlify.app/)
+
+- [Summer of Blogdown slides](https://summer-of-blogdown.netlify.app/03/#1)
+
+- [Activating Page Bundles](https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/)
+
+
+
 **Other Resources**
 
 -   [R-Studio Education Repo on Github](https://github.com/rstudio-education)
