@@ -16,6 +16,11 @@ library(ggplot2)
 
 
 ```{r echo = FALSE}
+cars
+
+```
+
+```{r echo = FALSE}
 ggplot(data = cars, aes(x = speed, y = dist)) + 
   geom_point(color = "purple")
 ```
