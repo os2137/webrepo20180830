@@ -1,6 +1,6 @@
 ---
-title: Post plus post
-author: Onkar Singh
+title: "Post plus post"
+author: "Onkar Singh"
 date: '2021-04-03'
 slug: post-plus-plost
 categories: []
@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-```{r}
+```{r echo = FALSE}
 library(ggplot2)
 ggplot(data = 
          cars, aes(x = speed, y = dist)) + 
