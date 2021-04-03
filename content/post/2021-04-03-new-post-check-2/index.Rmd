@@ -1,6 +1,6 @@
 ---
-title: new post check -2
-author: ''
+title: This is a check post -2
+author: 'Onkar Singh'
 date: '2021-04-03'
 slug: 
 categories: []
