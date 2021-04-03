@@ -1,0 +1,16 @@
+---
+title: new post check -2
+author: ''
+date: '2021-04-03'
+slug: 
+categories: []
+tags: []
+---
+
+
+```{r}
+library(ggplot2)
+ggplot(data= cars, aes(x = speed, y = dist )) +
+  geom_point(color = "cyan")
+```
+
