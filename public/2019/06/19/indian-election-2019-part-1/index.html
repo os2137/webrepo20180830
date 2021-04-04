@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.47.1" />
+
+
+<title>Indian Election 2019 - Part 1 - onkarsingh website</title>
+<meta property="og:title" content="Indian Election 2019 - Part 1 - onkarsingh website">
+
+
+
+  
+
+
+
+
+
+
+
+
+<link href='//cdn.bootcss.com/highlight.js/9.11.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/Home-Onkar%20Singh.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="https://www.linkedin.com/in/onkarsinghcsranddevelopment/">LinkedIn</a></li>
+    
+    <li><a href="/resume/">Resume</a></li>
+    
+    <li><a href="https://twitter.com/onkartweets">Twitter</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">1 min read</span>
+    
+
+    <h1 class="article-title">Indian Election 2019 - Part 1</h1>
+
+    
+    <span class="article-date">2019/06/19</span>
+    
+
+    <div class="article-content">
+      <pre><code class="language-r">knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, cache = TRUE)
+library(tidyverse)
+library(ggplot2)
+theme_set(theme_light())
+</code></pre>
+
+<pre><code class="language-r">exit_polls_2019 &lt;- read_csv(&quot;exit_polls_2019.csv&quot;)
+</code></pre>
+
+<p>The figure below shows the exit polls results conducted by majore Indian television channel and associated poll agencies</p>
+
+<pre><code class="language-r">exit_polls_2019 %&gt;%
+mutate(Coalition = fct_reorder(Coalition, Seats)) %&gt;%
+ggplot(aes(Coalition, Seats)) +
+geom_col(aes(fill = Coalition), show.legend = FALSE) +
+facet_wrap( ~ Poll) +
+coord_flip() +
+geom_text(aes(label = Seats),
+size = 3,
+vjust = 1,
+hjust = 1) +
+labs(
+x = &quot;Major Coalitions &quot;,
+y = &quot;Seat Projections&quot;,
+subtitle = &quot;Seat projections for major political coalitions- the majority mark is 272.&quot;,
+title = &quot;Exit Polls Projections for 2019 General Elections in India&quot;
+)
+
+</code></pre>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/highlight.min.js"></script>
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/r.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/yaml.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+<script src="/js/math-code.js"></script>
+<script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+    
+  </body>
+</html>
+
