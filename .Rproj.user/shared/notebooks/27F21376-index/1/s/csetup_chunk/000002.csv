@@ -1,0 +1,4 @@
+"0","knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, cache = TRUE)"
+"0",""
+"0","library(ggplot2)"
+"2","package ‘ggplot2’ was built under R version 4.0.3"

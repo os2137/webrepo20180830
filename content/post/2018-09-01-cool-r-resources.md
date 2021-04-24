@@ -1,7 +1,7 @@
 ---
 title: "Cool R Resources-Books and Webpages"
 author: "Onkar Singh"
-date: '2021-04-03'
+date: '2021-04-24'
 slug: cool-r-resources
 tags: []
 categories: []
@@ -108,15 +108,34 @@ categories: []
 
 -  [Mastering Shiny](https://mastering-shiny.org/)
 
--  [Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert](https://plotly-r.com/)
+- [Engineering Production-Grade Shiny Apps by Colin Fay and others](https://engineering-shiny.org/)
+
+- [Outstanding User Interfaces with Shiny by David Granjon](https://unleash-shiny.rinterface.com/index.html)
+
+- [Shiny tutorial and cheat sheet by Zev Ross](http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/)
+
+- [A gradual introduction to Shiny by Ted Laderas et al.](https://laderast.github.io/gradual_shiny/)
+
+- [Written and video tutorials for users who are new to Shiny](https://shiny.rstudio.com/tutorial/)
 
 - [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+
+- [Articles related to all aspects of Shiny app development](https://shiny.rstudio.com/articles/)
+
+- [Getting help about anything related to R and Shiny](https://shiny.rstudio.com/articles/help.html)
+
+
+-  [Interactive web-based data visualization with R, plotly, and shiny by Carson Sievert](https://plotly-r.com/)
+
+
 
 - [Shiny Widget Gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)
 
 - [Extentesions-where next](https://laderast.github.io/gradual_shiny/where-next.html)
 
 - [thematic Auto theming by Carson Sievert](https://rstudio.github.io/thematic/articles/auto.html)
+
+- []
 
 
 

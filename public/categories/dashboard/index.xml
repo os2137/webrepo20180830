@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dashboard on onkarsingh website</title>
+    <link>/categories/dashboard/</link>
+    <description>Recent content in dashboard on onkarsingh website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coronovirus in India_Dashboard</title>
+      <link>/2020/04/18/coronovirus-in-india-dashboard/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/18/coronovirus-in-india-dashboard/</guid>
+      <description>SummaryRowconfirmedvalueBox(value = paste(format(sum(df$confirmed), big.mark = &amp;quot;,&amp;quot;), &amp;quot;&amp;quot;, sep = &amp;quot; &amp;quot;),caption = &amp;quot;Total confirmed cases&amp;quot;,icon = &amp;quot;fas fa-user-md&amp;quot;,color = confirmed_color)14,352 deathvalueBox(value = paste(format(sum(df$death, na.rm = TRUE), big.mark = &amp;quot;,&amp;quot;), &amp;quot; (&amp;quot;,round(100 * sum(df$death, na.rm = TRUE) / sum(df$confirmed), 1),&amp;quot;%)&amp;quot;,sep = &amp;quot;&amp;quot;),caption = &amp;quot;Death cases (death rate)&amp;quot;,icon = &amp;quot;fas fa-heart-broken&amp;quot;,color = death_color)486 (3.</description>
+    </item>
+    
+  </channel>
+</rss>

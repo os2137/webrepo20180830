@@ -1,0 +1,2 @@
+"0","ggplot(data = cars, aes(x = speed, y = dist)) + "
+"0","  geom_point(color = ""purple"")"
