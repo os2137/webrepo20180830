@@ -135,10 +135,6 @@ categories: []
 
 - [thematic Auto theming by Carson Sievert](https://rstudio.github.io/thematic/articles/auto.html)
 
-- []
-
-
-
 
 
 **Databases**
