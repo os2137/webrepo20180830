@@ -144,7 +144,7 @@ head(co2_rankings)
 
 
 ### **Changes in Carbon Dioxide Emission Rankings of Countries from 2015 to 2014**
-Countries with less than 200k population has not been included. 
+Countries with less than 200k population have not been included. 
 
 
 
