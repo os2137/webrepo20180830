@@ -160,6 +160,11 @@ categories: []
 ]
 - [xaringanextra- Extra Special xaringan Presentations](https://pkg.garrickadenbuie.com/xaringanExtra/#/?id=xaringanextra)
 
+**Workflow**
+
+-  [RStudio Projects and Working Directories: A Beginner's Guide](https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner's-guide/)
+
+
 
 **Officeverse**
 
