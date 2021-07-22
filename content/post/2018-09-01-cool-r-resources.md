@@ -106,9 +106,20 @@ categories: []
 
 **Shiny**
 
--  [Mastering Shiny](https://mastering-shiny.org/)
+
+- [RStudio Shiny Tutorial](https://shiny.rstudio.com/tutorial/)
+
+
+- [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+
+
+ - [Mastering Shiny](https://mastering-shiny.org/)
 
 - [Engineering Production-Grade Shiny Apps by Colin Fay and others](https://engineering-shiny.org/)
+
+- [JavaScript for R](https://book.javascript-for-r.com/)
+
+- [Awesome Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
 
 - [Outstanding User Interfaces with Shiny by David Granjon](https://unleash-shiny.rinterface.com/index.html)
 
@@ -116,9 +127,9 @@ categories: []
 
 - [A gradual introduction to Shiny by Ted Laderas et al.](https://laderast.github.io/gradual_shiny/)
 
-- [Written and video tutorials for users who are new to Shiny](https://shiny.rstudio.com/tutorial/)
 
-- [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+
+
 
 - [Articles related to all aspects of Shiny app development](https://shiny.rstudio.com/articles/)
 
