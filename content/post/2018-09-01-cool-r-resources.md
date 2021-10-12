@@ -13,7 +13,7 @@ categories: []
 
 -   [R for Data Science Book by Hadley Wickham and Garrett Grolemund](http://r4ds.had.co.nz/)
 
--   [Solutions and notes for R4DS by Jeffrey B. Arnold. Work in progress](https://jrnold.github.io/r4ds-exercise-solutions/)
+-   [Solutions and notes for R4DS by Jeffrey B. Arnold.](https://jrnold.github.io/r4ds-exercise-solutions/)
 
 -   [Advanced R 2nd Edition by Hadley Wickham](https://adv-r.hadley.nz/)
 
@@ -45,6 +45,7 @@ categories: []
 
 -   [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 
+-   [An Introduction to Statistical Learning](https://www.statlearning.com/)
 -   [The Elements of Statiscal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 **Text Mining**
