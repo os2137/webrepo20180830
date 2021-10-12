@@ -147,7 +147,10 @@ categories: []
 
 - [thematic Auto theming by Carson Sievert](https://rstudio.github.io/thematic/articles/auto.html)
 
+**Survey**
 
+
+- [srvyr compared to the survey package](https://cran.r-project.org/web/packages/srvyr/vignettes/srvyr-vs-survey.html)
 
 **Databases**
 
