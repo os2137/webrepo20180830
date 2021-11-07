@@ -48,6 +48,10 @@ categories: []
 -   [An Introduction to Statistical Learning](https://www.statlearning.com/)
 -   [The Elements of Statiscal Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
+- [Programming with dplyr](https://dplyr.tidyverse.org/articles/programming.html)
+
+- [Using ggplot2 in packages](https://ggplot2.tidyverse.org/articles/ggplot2-in-packages.html)
+
 **Text Mining**
 
 -   [Tidy Text Mining with R](https://www.tidytextmining.com/)
@@ -202,6 +206,41 @@ categories: []
 
 - [Activating Page Bundles](https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/)
 
+
+**GIS in R**
+
+- [A Crash Course in Geographic Information Systems (GIS) using R](https://bookdown.org/michael_bcalles/gis-crash-course-in-r/#why-use-r)
+
+- [Guide to Creating Interactive Maps in R](https://bookdown.org/eneminef/DRR_Bookdown/)
+
+- [Climate Change Impact Assessment: A practical walk-through](https://claut.gitlab.io/man_ccia/)
+
+- []
+
+**Other Bookdown books for R**
+- [All Bookdown Books](https://bookdown.org/home/)
+
+- [How I Use R](https://howiuser.com/index.html)
+
+- [Time Series Analysis](https://bookdown.org/mpfoley1973/time-series/)
+
+- [Math Prefresher for Political Scientists](https://iqss.github.io/prefresher/)
+
+- [Handling Strings With R](https://www.gastonsanchez.com/r4strings/)
+
+- [Using R for Educational Research](https://bookdown.org/bean_jerry/using_r_for_educational_research/)
+
+- [Data Science in Education Using R](https://datascienceineducation.com/)
+
+- [Advanced Environmental Data Management](https://bookdown.org/donnie_day27/bookdown_assignment/)
+
+- [R Essentials for Six Sigma Analytic](https://bookdown.org/content/4e34e34f-ca48-4090-90ca-8ae7b1b65e0e/)
+
+- [Economic Survey 2019-20](https://bookdown.org/markbneal/EconomicSurvey1920/)
+
+- [TIES Measurement Report Automation Project](https://bookdown.org/wuzezhen33/mrautomatr/)
+
+-
 
 
 **Other Resources**
